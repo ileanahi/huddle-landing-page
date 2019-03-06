@@ -1,6 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
+    background-color: hsl(214, 64%, 98%);
 }
 
 h1,h2,h3 {
