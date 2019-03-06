@@ -6,6 +6,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
+    color: hsl(208, 11%, 55%);
     background-color: hsl(214, 64%, 98%);
 }
 
