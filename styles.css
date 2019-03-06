@@ -7,3 +7,8 @@ h1,h2,h3 {
     font-family: 'Poppins', sans-serif;
     color:  hsl(192, 100%, 9%);
 }
+
+
+footer {
+    color: #fff;
+}
