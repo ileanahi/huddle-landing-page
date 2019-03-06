@@ -17,6 +17,7 @@ h1,h2,h3 {
 
 .center {
     text-align: center;
+    margin: 0 auto;
 }
 
 footer {
